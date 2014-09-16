@@ -1,5 +1,10 @@
-### 3.1.1 / Developmemt
+### 3.2.0 / Development
+
 [Full Changelog](http://github.com/rspec/rspec-mocks/compare/v3.1.0...master)
+
+Enhancements:
+* Print diffs when arguments in mock expectations are mismatched. (Sam Phippen, #751)
+
 
 Bugfixes:
 
